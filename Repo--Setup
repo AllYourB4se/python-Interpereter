@@ -1,0 +1,13 @@
+
+''' Clone the repository '''
+
+git clone https://git.codecrafters.io/85b04f4d95ed7af1 codecrafters-interpreter-python
+cd codecrafters-interpreter-python
+
+
+'''Push an empty commit'''
+git commit --allow-empty -m 'test'
+git push origin master
+
+
+'''
